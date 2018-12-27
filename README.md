@@ -31,7 +31,7 @@ $ sudo apt-get upgrade -y
 #### Step 2 Clone the lab folder in /home/workspace/
 ```sh
 $ cd /home/workspace/
-$ git clone https://github.com/udacity/RoboND-myrobot myrobot
+$ git clone https://github.com/karimchamaa/RoboND-myrobot myrobot
 ```
 
 #### Step 3 Compile the code
